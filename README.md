@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FARFAOUA</h1>
-<h3 align="center">Information Systems Engineering student | Full-Stack Developer | Graphic Design Enthusiast</h3>
+<h3 align="center">Information Systems Engineering Student | Full-Stack Developer | Graphic Design Enthusiast</h3>
 
 
 - 🔭 I’m currently working on **Freelance projects**
