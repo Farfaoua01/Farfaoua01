@@ -4,10 +4,6 @@
 
 - 🔭 I’m currently working on **Freelance projects**
 
-- 🎓 Education: **Final-year Master’s student in Information Systems Engineering.**
-
-- 📫 Reach out to me **farfaouafatimaezzahra@gmail.com**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
